@@ -1,4 +1,4 @@
-<h2>Curso de TypeScript na Alura: Concluído</h2>
+<h2>Curso de TypeScript Fundamentos na Alura: Concluído</h2>
 
 > Passo 1: Instalar os programas necessários em sua máquina, descritos abaixo:
 
