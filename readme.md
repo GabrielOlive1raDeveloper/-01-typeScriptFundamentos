@@ -1,3 +1,5 @@
+<h2>Curso de Type Script Alura: Concluído</h2>
+
 > Passo 1: Instalar os programas necessários em sua máquina, descritos abaixo:
 
 ```
