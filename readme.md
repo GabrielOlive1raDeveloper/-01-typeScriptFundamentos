@@ -1,10 +1,8 @@
-> Dependências do Projeto
+> Passo 1: Instalar os programas necessários em sua máquina, descritos abaixo:
 
 ```
-node.js
-typeScript
-Visual Studio Code ou outra IDE preferida (exemplo: Atom, Sublime)
-
+Node.js (version 16.17.0)
+Visual Studio Code ou outra IDE preferida (exemplo: Atom e Sublime)
 ```
 
 > Comandos para instalar as dependências do projeto.
