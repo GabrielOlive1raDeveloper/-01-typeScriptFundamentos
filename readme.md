@@ -5,13 +5,13 @@ Node.js (version 16.17.0)
 Visual Studio Code ou outra IDE preferida (exemplo: Atom e Sublime)
 ```
 
-> Passo 2: Para instalar as dependências do projeto em sua máquina, digite o comando:
+> Passo 2: Abra o projeto em sua IDE e instale as dependências, digitando o comando no terminal na raiz da pasta do projeto:
 
 ```
 npm install
 ```
 
-> Comandos do compilador
+> Passo 3: Para rodar o projeto na sua máquina, digite um dos dois comandos abaixo na raiz da pasta do projeto:
 
 ```
 npm run server (executa a aplicação e abre no browser)
