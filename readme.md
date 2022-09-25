@@ -1,4 +1,4 @@
-> Depencias do Projeto
+> Dependêcias do Projeto
 
 ```
 node.js
